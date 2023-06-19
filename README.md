@@ -56,7 +56,7 @@ You **must** use the Google Chrome developer tools during your HTML/CSS implemen
 ​
 * [ ] Desktop size should be responsive at 1920px width.
 * [ ] Mobile size should be responsive at 428px width.
-* [ ] Don't forget your viewport meta tag!
+* [*] Don't forget your viewport meta tag!
 ​
 **NOTE: You may notice that your design doesn't look great between these sizes. This is totally normal; for a real product, there would be at least a tablet size intermediary design and likely several more breakpoints to improve the experience for a variety of screen sizes. If you would like to practice more, feel free to make the project look great at all sizes!**
 ​
